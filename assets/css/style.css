@@ -1,0 +1,42 @@
+.nav-link {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Varela Round', sans-serif;
+    width: 100%;
+    text-align: center;
+    font-style: oblique;
+    font-size: 2.5rem;
+}
+
+.card {
+    display:inline-block;
+    margin:10px;
+    padding: 10px;  
+}
+
+.card-img-top {
+    width: 100px;
+    height: auto;
+}
+
+.vediotext {
+    text-align: justify;
+}
+
+.youtubecontent {
+    text-align: center;
+}
+
+.selected-tours {
+    background-color:lightyellow; 
+    height:100px;
+   text-decoration: underline;
+   font-size:5em;
+   font-family: fantasy, sans-serif;
+   letter-spacing: 3px;
+   word-break: break-all;
+}
