@@ -1,28 +1,20 @@
+/*index.html*/
+
 .nav-link {
     color: black;
     font-size: large;
     font-weight: bold;
 }
 
-h3 {
+.section-heading {
     font-family: 'Varela Round', sans-serif;
     width: 100%;
     text-align: center;
-    font-style: oblique;
-    font-size: 2.5rem;
+    font-size:3.5vw;
 }
 
-.card {
-    display:inline-block;
-    margin:10px;
-    padding: 10px;  
-}
 
-.card-img-top {
-    width: 100px;
-    height: auto;
-}
-
+/*page1.html*/
 .vediotext {
     text-align: justify;
 }
@@ -33,10 +25,12 @@ h3 {
 
 .selected-tours {
     background-color:lightyellow; 
-    height:100px;
+    width:100%;
+    height:10vw;
    text-decoration: underline;
-   font-size:5em;
+   font-size:7vw;
    font-family: fantasy, sans-serif;
-   letter-spacing: 3px;
+   letter-spacing:3px;
    word-break: break-all;
 }
+
