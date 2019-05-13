@@ -1,0 +1,106 @@
+/*private.html*/
+
+.banner2 {
+    margin-bottom: 80px;
+}
+.vediotext {
+    margin-right: 15px;
+    padding: 2px;
+}
+
+h4 {
+    font-style: italic;
+    color: #DB4322;
+}
+
+p {
+     text-indent:2em;
+}
+
+.vedioIntro{
+    font-size: small;
+    font-family: 'Varela Round', sans-serif;
+    text-align:justify;
+    font-style: oblique;
+}
+
+
+.youtubecontent {
+    text-align: center;
+    margin-left: 15px;
+    padding: 2px;
+}
+
+.selected-tours {
+   background-color:lightyellow; 
+   width: 100%;
+   height:8vw;
+   text-decoration: underline;
+   font-size:5vw;
+   font-family: fantasy, sans-serif;
+   letter-spacing:4px;
+   word-break: break-all;
+   text-align: center;
+}
+
+i {
+    color:orange;
+}
+
+/*footer*/
+.icon {
+    display: inline-block;
+    font-size: 4vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}
+
+footer{
+    margin-top:10px;
+}
+
+.footerBlock{
+    display:inline-block;
+    padding: 15px;
+}
+
+.footerIntro{
+    font-size:small;
+}
+
+.info {
+    text-indent: 2em;
+    font-size: medium;
+    margin-bottom: 20px;
+}
+
+.page-footer{
+    background-color:#2F4F4F;
+    color:#F0F8FF;
+    bottom: 0;
+}
+
+.fList {
+    text-decoration:underline;
+}
+
+
+.link {
+    text-indent: 4em;
+    font-size: medium;
+}
+
+.link1 {
+    color: white;
+    font-size: medium;
+    line-height:2em;
+}
+.copyright {
+    text-align: center;
+    font-size: xx-small;
+    background-color: #000000;
+    margin: 0px;
+    padding-bottom: 1px;
+    position: relative;
+}

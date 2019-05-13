@@ -1,0 +1,88 @@
+/*navbar*/
+.nav-link {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.centent {
+    text-align: center;
+}
+
+.text {
+    margin-top: 1em;
+    padding: 1px;
+}
+
+h3{
+    line-height: 1.25;
+    font-weight:bold;
+    font-style: italic;
+    letter-spacing: 0.05em;
+    color:#DB4322;
+    text-align: left;
+}
+
+i {
+    color:orange;
+}
+
+/*footer*/
+.icon {
+    display: inline-block;
+    font-size: 4vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}
+
+footer{
+    margin-top:10px;
+}
+
+.footerBlock{
+    display:inline-block;
+    padding: 15px;
+}
+
+.footerIntro{
+    font-size:small;
+}
+
+.info {
+    text-indent: 2em;
+    font-size: medium;
+    margin-bottom: 20px;
+}
+
+.page-footer{
+    background-color:#2F4F4F;
+    color:#F0F8FF;
+    bottom: 0;
+}
+
+.fList {
+    text-decoration:underline;
+}
+
+
+.link {
+    text-indent: 4em;
+    font-size: medium;
+}
+
+.link1 {
+    color: white;
+    font-size: medium;
+    line-height:2em;
+}
+
+.copyright {
+    text-align: center;
+    font-size: xx-small;
+    background-color: #000000;
+    margin: 0px;
+    padding-bottom: 1px;
+    position: relative;
+}
+
