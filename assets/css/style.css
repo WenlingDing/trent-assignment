@@ -1,4 +1,12 @@
-/*index.html*/
+/*home.html*/
+/*navbar*/
+.navbar{
+    background-image: url("nav.jpg");
+}
+
+.nav-item a{
+    color:red;
+}
 
 .nav-link {
     color: black;
@@ -6,31 +14,81 @@
     font-weight: bold;
 }
 
+/*content*/
 .section-heading {
     font-family: 'Varela Round', sans-serif;
     width: 100%;
     text-align: center;
     font-size:3.5vw;
+    margin-top: 1em;
+    color:#DB4322;
+}
+
+.carousel-item{
+    height: 30vw;
 }
 
 
-/*page1.html*/
-.vediotext {
-    text-align: justify;
+
+/*footer*/
+
+.icon {
+    display: inline-block;
+    font-size: 4vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
 }
 
-.youtubecontent {
+i {
+    color:orange;
+}
+
+footer{
+    margin-top:10px;
+}
+
+.footerBlock{
+    display:inline-block;
+    padding: 15px;
+}
+
+.footerIntro{
+    font-size:small;
+}
+
+.info {
+    text-indent: 2em;
+    font-size: medium;
+    margin-bottom: 20px;
+}
+
+.page-footer{
+    background-color:#2F4F4F;
+    color:#F0F8FF;
+    bottom: 0;
+}
+
+.fList {
+    text-decoration:underline;
+}
+
+
+.link {
+    text-indent: 4em;
+    font-size: medium;
+}
+
+.link1 {
+    color: white;
+    font-size: medium;
+    line-height:2em;
+}
+.copyright {
     text-align: center;
-}
-
-.selected-tours {
-    background-color:lightyellow; 
-    width:100%;
-    height:10vw;
-   text-decoration: underline;
-   font-size:7vw;
-   font-family: fantasy, sans-serif;
-   letter-spacing:3px;
-   word-break: break-all;
+    font-size: xx-small;
+    background-color: #000000;
+    padding-bottom: 1px;
+    position: relative;
 }
 
