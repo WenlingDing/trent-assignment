@@ -1,7 +1,7 @@
 /*home.html*/
 /*navbar*/
 .navbar{
-    background-image: url("nav.jpg");
+    background-image: url("../images/nav.jpg");
 }
 
 .nav-item a{
@@ -28,7 +28,11 @@
     height: 30vw;
 }
 
-
+.text1 {
+    font-family: 'Varela Round', sans-serif;
+    text-align: justify;
+    margin:1.5em 0.5em 2.5em 0.5em;
+}
 
 /*footer*/
 

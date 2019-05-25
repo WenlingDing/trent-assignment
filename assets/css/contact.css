@@ -5,12 +5,11 @@
     font-weight: bold;
 }
 
-
-
-
-body {
-    padding:5px;
+.navbar{
+    background-image: url("../images/nav.jpg");
 }
+
+/*body*/
 
 .nav-link {
     color: black;

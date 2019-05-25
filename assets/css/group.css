@@ -5,6 +5,24 @@
     font-weight: bold;
 }
 
+.navbar{
+    background-image: url("../images/nav.jpg");
+}
+
+/*body*/
+
+.p1 {
+    text-align: left;
+}
+
+.p2 {
+    text-align: left;
+}
+
+.p3 {
+    text-align: left;
+}
+
 .centent {
     text-align: center;
 }

@@ -1,5 +1,9 @@
 /*private.html*/
 
+.navbar{
+    background-image: url("../images/nav.jpg");
+}
+
 .banner2 {
     margin-bottom: 80px;
 }
