@@ -9,14 +9,13 @@
     background-image: url("../images/nav.jpg");
 }
 
-/*body*/
-
 .nav-link {
     color: black;
     font-size: large;
     font-weight: bold;
 }
 
+/*body*/
 .section-heading {
     font-family: 'Varela Round', sans-serif;
     width: 100%;
@@ -81,7 +80,7 @@ i {
     padding:0px;
     background-color: lightgrey;
     border:#FFEBCD solid 4px;
-   text-align: center;
+    text-align: center;
 }
 
 #map-container-google {

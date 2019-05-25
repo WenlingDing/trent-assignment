@@ -4,9 +4,20 @@
     background-image: url("../images/nav.jpg");
 }
 
+.nav-item a{
+    color:red;
+}
+
+.nav-link {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
 .banner2 {
     margin-bottom: 80px;
 }
+
 .vediotext {
     margin-right: 15px;
     padding: 2px;
