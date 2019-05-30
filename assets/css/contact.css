@@ -15,7 +15,7 @@
     font-weight: bold;
 }
 
-/*body*/
+/*content*/
 .section-heading {
     font-family: 'Varela Round', sans-serif;
     width: 100%;
@@ -125,7 +125,7 @@ input, textarea{
     margin:3vw;
  }
  
- /*footer*/
+/*footer*/
 .icon {
     display: inline-block;
     font-size: 4vw;

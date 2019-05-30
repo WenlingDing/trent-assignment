@@ -19,6 +19,15 @@ My project is to imagine myself as tour plan agency of my hometown, Wuhan in Chi
 
 I want to provide the capabilities to design a website according to the nature of the product via a user friendly approach. I want to show that I understand the importance of design and the coding skills I have to implement the design I envision.
 
+components:
+--
+I create 4 pages <br>
+home.html:the css file is in assets/css/style.css <br>
+privateTours.html:the css file is in  assets/css/privateTours.css <br>
+gounp.html:the css file is in assets/css/group.css <br>
+contactUs.html:the css file is in assets/css/contact.css <br>
+
+I have draw wireframes for each page design , all diagrams is in wireframes folder.<br>
 Features
 ---
 This site uses the feature to ensure the optimal UI experience regardless of devices used to access the site.

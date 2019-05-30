@@ -1,5 +1,5 @@
 /*private.html*/
-
+/*navbar*/
 .navbar{
     background-image: url("../images/nav.jpg");
 }
@@ -23,6 +23,7 @@
     padding: 2px;
 }
 
+/*content*/
 h4 {
     font-style: italic;
     color: #DB4322;
@@ -71,6 +72,7 @@ i {
     margin-bottom: 2vw;
 }
 
+/*footer*/
 footer{
     margin-top:10px;
 }
