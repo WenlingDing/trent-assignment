@@ -19,7 +19,7 @@ My project is to imagine myself as tour plan agency of my hometown, Wuhan in Chi
 
 I want to provide the capabilities to design a website according to the nature of the product via a user friendly approach. I want to show that I understand the importance of design and the coding skills I have to implement the design I envision.
 
-components:
+components
 --
 I create 4 pages <br>
 home.html:the css file is in assets/css/style.css <br>
