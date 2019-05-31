@@ -29,7 +29,7 @@ contactUs.html:the css file is in assets/css/contact.css <br>
 
 I have draw wireframes for each page design , all diagrams is in wireframes folder.<br>
 Features
----
+
 This site uses the feature to ensure the optimal UI experience regardless of devices used to access the site.
 
 Future enhancements
