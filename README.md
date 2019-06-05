@@ -22,7 +22,7 @@ I want to provide the capabilities to design a website according to the nature o
 components
 --
 I create 4 pages <br>
-home.html:the css file is in assets/css/style.css <br>
+index.html:the css file is in assets/css/style.css <br>
 privateTours.html:the css file is in  assets/css/privateTours.css <br>
 gounp.html:the css file is in assets/css/group.css <br>
 contactUs.html:the css file is in assets/css/contact.css <br>
