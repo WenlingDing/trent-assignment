@@ -44,11 +44,13 @@ I tested the HTML and CSS By Chrome Developer Tools to ensure that it displays c
 
 Deployment
 ---
-This site is hosted using GitHub pages, deployed directly from the master2 branch.
+This site is hosted using GitHub pages, deployed directly from the master branch.<br>
+https://wenlingding.github.io/trent-assignment/
 
-To run locally, you can clone this repository directly into the editor of your choice by pasting git clone
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone<br>
 
-https://github.com/WenlingDing/trent-assignment/tree/master2 into your terminal.
+https://github.com/WenlingDing/trent-assignment/tree/master into your terminal.
+
 
 Credits
 ---
